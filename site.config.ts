@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Daniel Wiratman',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  // domain: 'mica-principle-00b.notion.site',
   author: 'Daniel Wiratman',
 
   // open graph metadata (optional)
