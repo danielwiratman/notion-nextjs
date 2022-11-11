@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Daniel Wiratman',
-  // domain: 'mica-principle-00b.notion.site',
+  domain: 'danielwiratman.vercel.app',
   author: 'Daniel Wiratman',
 
   // open graph metadata (optional)
